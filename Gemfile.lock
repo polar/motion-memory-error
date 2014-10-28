@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ProMotion (2.0.1)
+      methadone (~> 1.4)
+    methadone (1.8.0)
+      bundler
+    rake (10.3.2)
+    sugarcube (1.6.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ProMotion
+  rake
+  sugarcube
